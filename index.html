@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+    <title>Satellite Office</title>
+  </head>
+  <body>
+    <div id="hero-blk">
+      <div class="container-blk">
+        <img class="logo-blk" src="./img/white.png" />
+        <div class="hero-text-blk">
+          <h1>Mountains</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </div>
+      <img id="large-shape" src="./img/Polygon 3.png" />
+      <img id="medium-shape" src="./img/Polygon 4.png" />
+      <img id="small-shape" src="./img/Polygon 2.png" />
+    </div>
+    <div class="container-blk">
+      <div class="input-blk">
+        <div>
+          <i id="search-btn" class="fa-solid fa-magnifying-glass"></i>
+          <input
+            id="search-bar-blk"
+            type="text"
+            placeholder="Search mountains"
+          />
+        </div>
+        <div>
+          <div id="select-blk">
+            <p>
+              <span id="label-dd-blk">Sort a A - Z</span>
+              <i id="arrow-icon-blk" class="fa-solid fa-chevron-down"></i>
+            </p>
+          </div>
+          <ul id="drop-down-blk" class="dd-inactive">
+            <li id="asc-blk">Sort a A - Z</li>
+            <li id="desc-blk">Sort a Z - A</li>
+          </ul>
+        </div>
+      </div>
+      <div class="mountains-blk"></div>
+    </div>
+    <script type="module" src="./js/script.js"></script>
+  </body>
+</html>

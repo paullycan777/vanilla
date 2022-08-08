@@ -1,0 +1,42 @@
+[
+  {
+    "image": "./img/mountain-one.png",
+    "title": "Denali National Park and Preserve",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum."
+  },
+  {
+    "image": "./img/mountain-two.png",
+    "title": "Beautiful peaks of the Himalayas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum."
+  },
+  {
+    "image": "./img/mountain-three.png",
+    "title": "Karakoram Range in Northern Pakistan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing."
+  },
+  {
+    "image": "./img/mountain-four.png",
+    "title": "Mount Kilimanjaro",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum."
+  },
+  {
+    "image": "./img/mountain-five.png",
+    "title": "Olympus Range of Greece",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum."
+  },
+  {
+    "image": "./img/mountain-six.png",
+    "title": "Mont Blanc",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing."
+  },
+  {
+    "image": "./img/mountain-seven.png",
+    "title": "The peaks of Patagonia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum."
+  },
+  {
+    "image": "./img/mountain-eight.png",
+    "title": "Dolomites of Italy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ex ut blandit condimentum."
+  }
+]
